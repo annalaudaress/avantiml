@@ -1,1 +1,5 @@
-# avantiml
+1. Machine learning é uma área da inteligência artificial que treina modelos estatísticos para responderem a certos estímulos cada vez melhor. É como ensinar um bebê a andar, só que nesse caso, é ensinar um computador a tomar decisões e fazer avaliações autônomas de forma progressiva.
+2. São três conjuntos: o de treinamento, onde o modelo é ensinado; o de validação, onde o modelo é avaliado e observado para ver se está se comportando adequadamente; e o de teste, usado para avaliar o desempenho do modelo depois do treinamento, simulando como ele se comportaria com novos dados.
+3. Dados ausentes podem ser tratados de várias formas: remover, preencher com valores pela média ou mediana, ou imputar usando técnicas estatísticas para estimar valores.
+4. A matriz de confusão é uma ferramenta que avalia modelos de classificação, dividindo os resultados em verdadeiros positivos, verdadeiros negativos, falsos positivos e falsos negativos. Serve como uma avaliação do modelo para identificar onde ele está acertando e errando.
+5. Como estudante da área da saúde, prefiro as aplicações de machine learning nesse setor.
